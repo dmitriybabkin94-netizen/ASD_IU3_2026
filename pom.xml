@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>00-example-module</module>
+        <module>33-Babkin</module>
     </modules>
 
     <properties>
